@@ -15,7 +15,7 @@ https://github.com/teamunique250/GetMeThereDriver
 https://github.com/AlphaTeamKigali/Track-It
 ### hack orient
 https://next-bus-dashboard.herokuapp.com/views/home.php
-github.com/HodardCodeclub/Hackorient
+github.com/HodardCodeclub/Hackorieny
 Github.com/DaveJuel/next-bus-dashboard
 ### Gikondo
 https://github.com/frankhn/gikondo
