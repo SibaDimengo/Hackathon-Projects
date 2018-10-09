@@ -15,8 +15,8 @@ https://github.com/teamunique250/GetMeThereDriver
 https://github.com/AlphaTeamKigali/Track-It
 ### hack orient
 https://next-bus-dashboard.herokuapp.com/views/home.php
-github.com/HodardCodeclub/Hackorieny
-Github.com/DaveJuel/next-bus-dashboard
+https://github.com/HodardCodeclub/Hackorient
+https://github.com/DaveJuel/next-bus-dashboard
 ### Gikondo
 https://github.com/frankhn/gikondo
 ### Caprog Developers
